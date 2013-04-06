@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SplashActivity!</string>
+    <string name="app_name">一站到底</string>
+    <string name="rules">欢迎使用《一站到底-站神秘籍》，专为关注江苏卫视《一站到底》节目的朋友制作的非官方手机应用。
+       \n\n 第二版新增功能:\n  1.倒计时功能\n  2.难度选择\n  3.话题分类\n  4.支持拼音答题\n  5.题库同步
+        \n\n连击返回键可随时退出答题\n点击\"设置\"设定答题倒计时时长</string>
+    <string name="input_hint">在这里输入答案</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_diff_setting">DiffSetting</string>
+    <string name="title_activity_cat_setting">CatSetting</string>
+    <string name="title_activity_timer_settings">TimerSettingsActivity</string>
+
+</resources>
